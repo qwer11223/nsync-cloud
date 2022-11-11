@@ -1,0 +1,12 @@
+{
+    "server": {
+        "host": "127.0.0.1",
+        "port": "8000",
+        "base_path": "./www",
+        "open_browser": false,
+        "console_urlPath": false
+    },
+    "upload":{
+        "uploadDir":"./tmp"
+    }
+}
